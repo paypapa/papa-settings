@@ -4,7 +4,7 @@
   "force_maintenance_info": "緊急メンテナンスを実施いたします\n5時間ほど掛かる見込みです\nAM 6時にサービス再開の予定です\n申し訳ありませんが、今しばらくお待ち下さい",
   "force_update": "false",
   "global_settings_update_delay_second": "300",
-  "shinsaKaku": "true",
+  "shinsaKaku": true,
   "apple_url": "",
   "android_url": "",
   "facebook_url": "",
